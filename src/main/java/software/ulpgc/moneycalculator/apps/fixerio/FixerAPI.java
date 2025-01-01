@@ -1,5 +1,5 @@
 package software.ulpgc.moneycalculator.apps.fixerio;
 
 public class FixerAPI {
-    public static final String key = "2b78c2c909ff32d80a3ac1c840b60cf5";
+    public static final String key = "76c3c592236f9460888e7b23955c5ca2";
 }
