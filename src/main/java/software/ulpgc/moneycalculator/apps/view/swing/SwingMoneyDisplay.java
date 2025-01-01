@@ -1,4 +1,4 @@
-package software.ulpgc.moneycalculator.apps.swing;
+package software.ulpgc.moneycalculator.apps.view.swing;
 
 import software.ulpgc.moneycalculator.apps.architecture.model.Money;
 import software.ulpgc.moneycalculator.apps.view.MoneyDisplay;
