@@ -1,10 +1,10 @@
-package software.ulpgc.moneycalculator.fixerws;
+package software.ulpgc.moneycalculator.apps.fixerio;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
-import software.ulpgc.moneycalculator.Currency;
-import software.ulpgc.moneycalculator.ExchangeRate;
-import software.ulpgc.moneycalculator.ExchangeRateLoader;
+import software.ulpgc.moneycalculator.apps.architecture.model.Currency;
+import software.ulpgc.moneycalculator.apps.architecture.model.ExchangeRate;
+import software.ulpgc.moneycalculator.apps.architecture.persistence.Loader.ExchangeRateLoader;
 
 import java.io.IOException;
 import java.io.InputStream;

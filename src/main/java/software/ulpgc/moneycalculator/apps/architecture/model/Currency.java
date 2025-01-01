@@ -1,4 +1,4 @@
-package software.ulpgc.moneycaclulator.apps.architecture.model;
+package software.ulpgc.moneycalculator.apps.architecture.model;
 
 public record Currency(String code, String name) {
     @Override

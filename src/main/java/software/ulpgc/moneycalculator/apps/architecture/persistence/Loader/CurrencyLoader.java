@@ -1,6 +1,6 @@
-package software.ulpgc.moneycaclulator.apps.architecture.persistence.Loader;
+package software.ulpgc.moneycalculator.apps.architecture.persistence.Loader;
 
-import software.ulpgc.moneycaclulator.apps.architecture.model.Currency;
+import software.ulpgc.moneycalculator.apps.architecture.model.Currency;
 
 import java.util.List;
 

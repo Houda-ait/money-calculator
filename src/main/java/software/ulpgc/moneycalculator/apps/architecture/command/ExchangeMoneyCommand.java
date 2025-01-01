@@ -1,12 +1,12 @@
-package software.ulpgc.moneycaclulator.apps.architecture.command;
+package software.ulpgc.moneycalculator.apps.architecture.command;
 
-import software.ulpgc.moneycaclulator.apps.view.CurrencyDialog;
-import software.ulpgc.moneycaclulator.apps.view.MoneyDialog;
-import software.ulpgc.moneycaclulator.apps.view.MoneyDisplay;
-import software.ulpgc.moneycaclulator.apps.architecture.model.Currency;
-import software.ulpgc.moneycaclulator.apps.architecture.model.ExchangeRate;
-import software.ulpgc.moneycaclulator.apps.architecture.model.Money;
-import software.ulpgc.moneycaclulator.apps.architecture.persistence.Loader.ExchangeRateLoader;
+import software.ulpgc.moneycalculator.apps.view.CurrencyDialog;
+import software.ulpgc.moneycalculator.apps.view.MoneyDialog;
+import software.ulpgc.moneycalculator.apps.view.MoneyDisplay;
+import software.ulpgc.moneycalculator.apps.architecture.model.Currency;
+import software.ulpgc.moneycalculator.apps.architecture.model.ExchangeRate;
+import software.ulpgc.moneycalculator.apps.architecture.model.Money;
+import software.ulpgc.moneycalculator.apps.architecture.persistence.Loader.ExchangeRateLoader;
 
 public class ExchangeMoneyCommand implements Command{
     private final MoneyDialog moneyDialog;

@@ -1,6 +1,6 @@
-package software.ulpgc.moneycaclulator.apps.view;
+package software.ulpgc.moneycalculator.apps.view;
 
-import software.ulpgc.moneycaclulator.apps.architecture.model.Money;
+import software.ulpgc.moneycalculator.apps.architecture.model.Money;
 
 public interface MoneyDisplay {
     void show(Money money);
